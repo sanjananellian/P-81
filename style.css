@@ -1,0 +1,16 @@
+h1
+{
+	color: rgb(240, 66, 13); 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image:url("istockphoto-837743078-170667a.jpg");
+background-position:center;
+background-size:cover;
+
+}
+
+#Mycanvas{
+border:10px ridge rgb(229, 67, 235);
+background-color: rgb(248, 185, 240);
+}
